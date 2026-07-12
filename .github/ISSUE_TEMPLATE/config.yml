@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Questions & setup help
+    url: https://github.com/fortunato-deangelis/component-locator/discussions
+    about: Ask questions, get setup help, share tips — please don't open issues for questions.
+  - name: 🌐 Website
+    url: https://fortunato.dev
+    about: The author's website — a dedicated page for the extension is coming soon.
