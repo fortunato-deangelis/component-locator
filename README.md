@@ -5,6 +5,7 @@
 ComponentLocator is a Chrome extension (Manifest V3) for web developers: hold `Alt`/`Option` while hovering your app in development and the element under the cursor is highlighted with its component name and source file. `Alt+Click` opens that file in your editor at the exact line.
 
 🌐 Website: **[fortunato.dev/ComponentLocator](https://fortunato.dev/component-locator)**
+🛍️ Chrome Web Store:  **[ComponentLocator](https://chromewebstore.google.com/detail/cgjiahdnbpgbjcihgnkbeoamipcegolh?utm_source=item-share-cb)**
 
 ---
 
